@@ -1,0 +1,6 @@
+/jboss-showcases/jboss-showcases-ejb/target/
+/jboss-showcases/jboss-showcases-web/target/
+/jboss-showcases/jboss-showcases-ear/target/
+.project
+.settings
+.classpath
