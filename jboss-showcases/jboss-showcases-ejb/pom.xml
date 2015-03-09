@@ -7,9 +7,7 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
 
-    <groupId>org.home.dt</groupId>
     <artifactId>jboss-showcases-ejb</artifactId>
-    <version>1.0-SNAPSHOT</version>
     <packaging>ejb</packaging>
 
     <name>jboss-showcases-ejb</name>
