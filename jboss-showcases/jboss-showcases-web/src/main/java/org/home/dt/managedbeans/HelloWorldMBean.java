@@ -6,7 +6,7 @@ import javax.faces.bean.SessionScoped;
 
 import org.home.dt.ejb.HelloWorldLocal;;
 
-@ManagedBean
+@ManagedBean(name="hello")
 @SessionScoped
 public class HelloWorldMBean {
 	
